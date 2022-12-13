@@ -26,6 +26,7 @@
 - [rianthaijournal.org (CHULA)](http://www.rianthaijournal.org/)
 - [cubs.chula.ac.th (CHULA)](http://www.cubs.chula.ac.th/)
 - [singhangernhub365.com (SWU)](https://singhangernhub365.com/)
+- [sdgmove](https://www.sdgmove.com/)
 
 - <strike>padatabase.com</strike> - deprecated
 - <strike>jp-arts.info</strike> - on progress
